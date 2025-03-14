@@ -26,7 +26,7 @@ SO article on guassian Blur : https://computergraphics.stackexchange.com/questio
 
 Vipul Sharma Github : https://github.com/vipul-sharma20/document-scanner
 
-Canny Edge Deetction https : //opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_canny/py_canny.html 
+Canny Edge Detection : https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_canny/py_canny.html 
 
 Contours Documentation : https://docs.opencv.org/3.1.0/d4/d73/tutorial_py_contours_begin.html
 
